@@ -1,0 +1,7 @@
+# Windows:
+Thumbs.db
+ehthum.db
+Desktop.ini
+# My configuration:
+db.ini
+*.class
