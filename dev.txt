@@ -1,1 +1,2 @@
 this is branch init txt.
+10月21日，我来学些git了，嘿嘿
